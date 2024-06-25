@@ -5,7 +5,7 @@
             fetch="https://github.com/"
             clone-depth="1" />
  <!--Device -->
- <project path="device/samsung/j4corelte" name="LeonelArtuzi/android_device_samsung_j4corelte" remote="gh" revision="los-15.1" />
+ <project path="device/samsung/j4corelte" name="LeonelArtuzi/android_samsung_device_j4corelte" remote="gh" revision="los-15.1" />
 
  <!--Kernel -->
  <project path="kernel/j4corelte" name="LeonelArtuzi/android_kernel_j4core" remote="gh" revision="los-15.1" />
